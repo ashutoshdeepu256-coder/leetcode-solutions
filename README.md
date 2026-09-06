@@ -23,3 +23,15 @@ My LeetCode problem-solving journey 🚀
 - Queue
 - Trees
 - Dynamic Programming
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/ashutoshdeepu256-coder/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/ashutoshdeepu256-coder/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+<!---LeetCode Topics End-->
